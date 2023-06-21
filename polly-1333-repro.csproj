@@ -5,6 +5,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>Polly1333Repro</RootNamespace>
     <TargetFramework>net6.0</TargetFramework>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Polly" Version="7.2.4" />
